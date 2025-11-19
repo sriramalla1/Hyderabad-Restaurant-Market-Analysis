@@ -1,0 +1,6 @@
+Price Category,Price Range,Estimated Count,Percentage,Average Rating
+Budget (₹0-200),Below ₹200,115,17.5,3.8
+Economy (₹201-400),₹201-400,245,37.3,3.9
+Mid-Range (₹401-700),₹401-700,185,28.2,4.1
+Premium (₹701-1000),₹701-1000,85,12.9,4.3
+Luxury (₹1000+),Above ₹1000,27,4.1,4.5
